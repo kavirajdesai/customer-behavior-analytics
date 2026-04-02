@@ -1,0 +1,51 @@
+customer_id,customer_name,age,gender,region,signup_date,last_purchase_date,total_purchases,total_spend,avg_order_value,product_category,email_opens,email_clicks,loyalty_tier,days_since_last_purchase,churn_risk
+C001,James Anderson,34,Male,Northeast,2021-03-15,2024-11-20,18,1240.50,68.92,Electronics,45,12,Gold,40,Low
+C002,Maria Garcia,27,Female,Southwest,2022-07-01,2024-12-10,7,430.00,61.43,Clothing,22,5,Silver,20,Low
+C003,Robert Brown,52,Male,Midwest,2020-01-10,2024-09-05,32,4875.00,152.34,Home & Garden,80,30,Platinum,116,Medium
+C004,Linda Davis,41,Female,Southeast,2021-11-22,2024-08-01,10,610.75,61.08,Beauty,18,3,Silver,152,High
+C005,Michael Wilson,29,Male,West,2023-02-14,2024-12-28,4,189.00,47.25,Books,10,2,Bronze,3,Low
+C006,Patricia Martinez,36,Female,Northeast,2020-06-30,2024-10-14,25,2950.00,118.00,Electronics,60,20,Gold,78,Low
+C007,David Taylor,47,Male,Southeast,2019-09-18,2024-05-30,40,6200.00,155.00,Home & Garden,90,35,Platinum,215,High
+C008,Jennifer Thomas,23,Female,West,2023-08-05,2024-12-20,3,145.00,48.33,Clothing,8,1,Bronze,11,Low
+C009,William Jackson,55,Male,Midwest,2020-03-25,2024-07-22,28,3400.00,121.43,Electronics,70,25,Gold,162,High
+C010,Barbara White,31,Female,Southwest,2022-01-17,2024-11-05,12,780.00,65.00,Beauty,30,8,Silver,56,Low
+C011,Christopher Harris,44,Male,Northeast,2021-05-09,2024-12-01,20,2100.00,105.00,Sports,50,15,Gold,30,Low
+C012,Susan Clark,39,Female,West,2020-12-03,2024-06-18,15,1120.00,74.67,Clothing,35,10,Silver,196,High
+C013,Matthew Lewis,26,Male,Southeast,2023-04-20,2024-12-15,5,260.00,52.00,Books,12,3,Bronze,16,Low
+C014,Karen Robinson,58,Female,Midwest,2019-07-14,2024-09-30,50,8750.00,175.00,Home & Garden,95,40,Platinum,92,Low
+C015,Anthony Walker,33,Male,Southwest,2022-09-11,2024-10-25,9,540.00,60.00,Sports,20,6,Silver,67,Low
+C016,Lisa Hall,48,Female,Northeast,2020-08-22,2024-04-10,22,2680.00,121.82,Beauty,55,18,Gold,265,High
+C017,Mark Allen,30,Male,West,2023-01-30,2024-12-22,6,310.00,51.67,Electronics,15,4,Bronze,9,Low
+C018,Nancy Young,62,Female,Southeast,2018-11-05,2024-08-15,60,10200.00,170.00,Home & Garden,100,45,Platinum,138,Medium
+C019,Steven King,37,Male,Midwest,2021-10-08,2024-11-18,14,890.00,63.57,Clothing,28,7,Silver,43,Low
+C020,Betty Wright,25,Female,Southwest,2023-06-25,2024-12-05,4,175.00,43.75,Books,9,1,Bronze,26,Low
+C021,Paul Scott,42,Male,Northeast,2020-04-17,2024-07-08,19,1580.00,83.16,Sports,40,11,Gold,176,High
+C022,Dorothy Green,35,Female,West,2022-03-12,2024-12-18,11,690.00,62.73,Beauty,25,7,Silver,13,Low
+C023,Kenneth Adams,51,Male,Southeast,2019-12-01,2024-06-01,35,5100.00,145.71,Electronics,85,32,Platinum,213,High
+C024,Sandra Baker,28,Female,Midwest,2023-05-18,2024-12-30,5,225.00,45.00,Clothing,11,2,Bronze,1,Low
+C025,George Gonzalez,46,Male,Southwest,2020-10-29,2024-09-12,24,2800.00,116.67,Home & Garden,65,22,Gold,110,Medium
+C026,Helen Nelson,53,Female,Northeast,2019-08-14,2024-05-20,42,7300.00,173.81,Beauty,92,38,Platinum,225,High
+C027,Joshua Carter,31,Male,West,2022-11-06,2024-11-28,10,620.00,62.00,Sports,22,6,Silver,33,Low
+C028,Donna Mitchell,40,Female,Southeast,2021-02-23,2024-10-05,16,1050.00,65.63,Clothing,32,9,Silver,87,Low
+C029,Kevin Perez,24,Male,Midwest,2023-09-10,2024-12-12,3,130.00,43.33,Books,7,1,Bronze,19,Low
+C030,Carol Roberts,57,Female,Southwest,2018-06-20,2024-08-28,55,9400.00,170.91,Electronics,98,42,Platinum,125,Medium
+C031,Brian Turner,38,Male,Northeast,2021-07-15,2024-12-08,13,820.00,63.08,Sports,27,7,Silver,23,Low
+C032,Ruth Phillips,45,Female,West,2020-09-04,2024-07-14,21,2200.00,104.76,Home & Garden,50,16,Gold,170,High
+C033,Eric Campbell,32,Male,Southeast,2022-12-28,2024-12-26,7,390.00,55.71,Electronics,16,4,Bronze,5,Low
+C034,Stephanie Parker,49,Female,Midwest,2019-05-11,2024-09-22,38,5900.00,155.26,Clothing,88,34,Platinum,100,Low
+C035,Larry Evans,27,Male,Southwest,2023-03-07,2024-11-10,5,270.00,54.00,Books,13,3,Bronze,51,Low
+C036,Sharon Edwards,43,Female,Northeast,2020-11-18,2024-10-30,17,1340.00,78.82,Beauty,38,11,Gold,62,Low
+C037,Jeffrey Collins,56,Male,West,2018-04-25,2024-06-25,48,8100.00,168.75,Electronics,93,39,Platinum,189,High
+C038,Anna Stewart,29,Female,Southeast,2023-07-14,2024-12-24,4,200.00,50.00,Clothing,10,2,Bronze,7,Low
+C039,Frank Sanchez,34,Male,Midwest,2022-08-03,2024-11-02,11,700.00,63.64,Sports,24,6,Silver,59,Low
+C040,Kimberly Morris,61,Female,Southwest,2018-02-09,2024-07-30,58,9800.00,168.97,Home & Garden,97,43,Platinum,154,Medium
+C041,Raymond Rogers,36,Male,Northeast,2021-09-27,2024-08-20,15,970.00,64.67,Electronics,33,9,Silver,133,High
+C042,Melissa Reed,22,Female,West,2023-10-15,2024-12-29,2,98.00,49.00,Beauty,6,1,Bronze,2,Low
+C043,Gregory Cook,50,Male,Southeast,2019-03-08,2024-05-15,33,4500.00,136.36,Home & Garden,82,31,Platinum,230,High
+C044,Angela Morgan,44,Female,Midwest,2020-07-21,2024-12-03,23,2550.00,110.87,Clothing,55,17,Gold,28,Low
+C045,Jacob Bell,25,Male,Southwest,2023-11-01,2024-12-27,3,155.00,51.67,Sports,8,2,Bronze,4,Low
+C046,Deborah Murphy,38,Female,Northeast,2021-04-13,2024-09-18,14,880.00,62.86,Beauty,29,8,Silver,104,Medium
+C047,Henry Bailey,53,Male,West,2019-10-30,2024-07-05,36,5600.00,155.56,Electronics,86,33,Platinum,179,High
+C048,Sarah Rivera,30,Female,Southeast,2022-06-19,2024-12-16,8,460.00,57.50,Clothing,18,4,Silver,15,Low
+C049,Walter Cooper,41,Male,Midwest,2020-02-14,2024-10-08,20,1780.00,89.00,Sports,45,13,Gold,84,Low
+C050,Jessica Richardson,26,Female,Southwest,2023-01-22,2024-12-21,5,240.00,48.00,Books,11,3,Bronze,10,Low
